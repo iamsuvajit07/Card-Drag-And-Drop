@@ -1,0 +1,13 @@
+.card {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 5px;
+  padding: 10px;
+  user-select: none;
+}
+
+.card.dragging {
+  opacity: 0.5;
+}

@@ -1,0 +1,13 @@
+.container {
+  border: 2px dashed #ccc;
+  padding: 10px;
+  width: 200px;
+}
+
+.highlight {
+  border-color: #f0ad4e;
+}
+
+.card-list {
+  margin-top: 10px;
+}
